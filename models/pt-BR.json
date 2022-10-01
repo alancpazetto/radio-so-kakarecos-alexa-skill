@@ -1,7 +1,7 @@
 {
   "interactionModel": {
       "languageModel": {
-          "invocationName": "template three",
+          "invocationName": "Rádio Só Kakarecos",
           "intents": [
             {
                 "name": "AMAZON.NavigateHomeIntent",

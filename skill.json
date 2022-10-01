@@ -2,20 +2,20 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
-          "summary": "An audio streaming example skill.",
+        "pt-BR": {
+          "summary": "Rádio Só Kakarecos Alexa Skill.",
           "examplePhrases": [
-            "Alexa, open Template Three",
-            "Alexa, play Template Three",
-            "Alexa, ask Template Three to play"
+            "Alexa, tocar Rádio Só Kakarecos"
           ],
           "keywords": [
             "audio streaming",
             "music",
-            "live music"
+            "live music",
+            "radio",
+            "só kakarecos"
           ],
-          "name": "Template 3 - Audio Streaming Example",
-          "description": "A starter template for an Alexa audio streaming skill.",
+          "name": "Rádio Só Kakarecos",
+          "description": "Rádio Só Kakarecos para Alexa",
           "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
           "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
         }

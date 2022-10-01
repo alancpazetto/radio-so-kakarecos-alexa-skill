@@ -6,15 +6,15 @@ const Alexa = require('ask-sdk-core');
 
 const STREAMS = [
   {
-    'token': 'dabble-radio-1',
-    'url': 'https://stream.zeno.fm/efe91skxn18uv.m3u',
+    'token': 'so-kakarecos-radio',
+    'url': 'http://sokakarecos.ddns.net:9030/rock128',
     'metadata': {
-      'title': 'Dabble Radio',
-      'subtitle': 'Music for coders',
+      'title': 'Rádio Só Kakarecos',
+      'subtitle': 'Classic Rock',
       'art': {
         'sources': [
           {
-            'contentDescription': 'Dabble Radio',
+            'contentDescription': 'Rádio Só Kakarecos',
             'url': 'https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png',
             'widthPixels': 512,
             'heightPixels': 512,
@@ -24,7 +24,7 @@ const STREAMS = [
       'backgroundImage': {
         'sources': [
           {
-            'contentDescription': 'Dabble Radio',
+            'contentDescription': 'Rádio Só Kakarecos',
             'url': 'https://s3.amazonaws.com/cdn.dabblelab.com/img/wayfarer-on-beach-1200x800.png',
             'widthPixels': 1200,
             'heightPixels': 800,
